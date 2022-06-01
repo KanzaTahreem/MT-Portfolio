@@ -133,3 +133,32 @@ button > a:hover {
     color: black;
     font-weight: 600;
 }
+.contact-secction{
+    background-color: #303841;
+    height: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.contact-secction > h1,p{
+    color:white;
+    text-align: center;
+}
+.contact-secction > p{
+    font-style: italic;
+
+}
+.contact-links{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.contact-links > a{
+    color: white;
+    padding: 0 10px;
+    text-transform: lowercase;
+}
+.footer{
+    background-color: #303841;
+    border-top: 3px solid brown;
+    padding: 30px 0;
+}
