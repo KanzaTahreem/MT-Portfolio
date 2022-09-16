@@ -1,5 +1,38 @@
-# FCC Test Suite Template
+# People Counter
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+> A freeCodeCamp project build for Microverse Trials in Pair Programming.
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+## Built With
+
+- HTML
+- CSS
+
+## Live Demo
+
+[Live Demo Link](https://kanzatahreem.github.io/Microverse-Trials-Portfolio/)
+
+## Getting Started
+
+To get a local copy, run the fllowing command.
+
+- `git clone git@github.com:KanzaTahreem/Microverse-Trials-Portfolio.git`
+
+### Usage
+
+Run live server
+
+## Authors
+
+👤 **Author**
+
+- GitHub: [@KanzaTahreem](https://github.com/KanzaTahreem)
+- Twitter: [@kanza_tahreem](https://twitter.com/kanza_tahreem)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kanza-tahreem/)
+
+👤 **Author**
+
+- GitHub: [@jorge3004](https://github.com/jorge3004)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
