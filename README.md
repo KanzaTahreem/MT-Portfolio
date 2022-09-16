@@ -1,4 +1,4 @@
-# People Counter
+# Portfolio
 
 > A freeCodeCamp project build for Microverse Trials in Pair Programming.
 
