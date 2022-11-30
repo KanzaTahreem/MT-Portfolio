@@ -9,13 +9,13 @@
 
 ## Live Demo
 
-[Live Demo Link](https://kanzatahreem.github.io/Microverse-Trials-Portfolio/)
+[Live Demo Link](https://kanzatahreem.github.io/MT-Portfolio/)
 
 ## Getting Started
 
 To get a local copy, run the fllowing command.
 
-- `git clone git@github.com:KanzaTahreem/Microverse-Trials-Portfolio.git`
+- `git clone git@github.com:KanzaTahreem/MT-Portfolio.git`
 
 ### Usage
 
